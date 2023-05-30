@@ -1,0 +1,24 @@
+.left-side {
+  align-items: flex-start;
+}
+.right-side {
+  align-items: flex-end;
+}
+
+.gray {
+  background-color: rgb(247, 246, 246);
+  color: black;
+}
+.blue {
+  background-color: #1877f2;
+  color: white;
+}
+.chatboxtop {
+  height: 100%;
+  overflow-y: scroll;
+  padding-right: 10px;
+}
+
+.nameofConv :hover {
+  background-color: hsl(0, 0%, 91%);
+}
